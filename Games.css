@@ -30,6 +30,7 @@
   font-size: 75px;
   margin-left: 50px;
   margin-bottom: 50px;
+  font-weight: bold;
 }
 
 #btn2:hover {
@@ -82,7 +83,7 @@ a:hover {
 h5 {
   text-align: center;
   color: rgb(52, 252, 255);
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
 }
 
@@ -102,7 +103,7 @@ h5 {
 }
 
 h4 {
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
   color: rgb(52, 252, 255);
   margin-left: 400px;
@@ -111,7 +112,7 @@ h4 {
 
 h2 {
   margin-top: 100px;
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   color: rgb(52, 252, 255);
   font-size: 100px;
