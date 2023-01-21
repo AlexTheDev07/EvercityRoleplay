@@ -145,6 +145,7 @@ h1 {
   color: rgb(254, 100, 100);
   animation: shake 2s linear infinite;
   animation-iteration-count: infinite;
+  transition: all .3s ease-in-out;
 }
 
 @keyframes shake {
