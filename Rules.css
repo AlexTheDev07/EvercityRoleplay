@@ -1,5 +1,5 @@
 #main {
-  width: 1100px;
+  text-align: left;
 }
 
 #btn5 {
@@ -23,7 +23,7 @@ img {
 }
 
 h3 {
-  padding-left: 250px;
+  text-align: center;
   background-color: wheat;
   font-size: 50px;
   font-family: Arial, Helvetica, sans-serif;
@@ -55,6 +55,10 @@ h2 {
   color: rgb(52, 252, 255);
   font-size: 100px;
   font-style: italic;
+}
+
+.center {
+  text-align: center;
 }
 
 body {

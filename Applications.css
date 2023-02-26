@@ -1,5 +1,5 @@
 #main {
-  width: 1100px;
+  text-align: left;
 }
 
 img {
@@ -25,7 +25,6 @@ img {
 iframe {
   padding: 60px;
   width: 550px;
-  margin-left: 500px;
   overflow-y: hidden;
 }
 
@@ -49,6 +48,10 @@ h2 {
   font-size: 100px;
 }
 
+.center {
+  text-align: center;
+}
+
 img {
   width: 75px;
   height: 75px;
@@ -67,24 +70,9 @@ h1 {
 }
 
 #btn2 {
+  margin-left: 10px;
   margin-top: 100px;
-  margin-left: 200px;
   width: 400;
-  height: 300px;
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
-  border-bottom-right-radius: 25px;
-  border-bottom-left-radius: 25px;
-  border-width: 0px;
-  background-color: rgb(254, 100, 100);
-  color: rgb(255, 255, 255);
-  font-size: 50px;
-}
-
-#btn3 {
-  margin-top: 100px;
-  margin-left: 450px;
-  width: 400px;
   height: 300px;
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;

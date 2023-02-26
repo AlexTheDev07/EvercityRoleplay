@@ -4,79 +4,6 @@
 
 #img1 {
   border-radius: 5px;
-  width: 75px;
-  height: 75px;
-}
-
-.ccard {
-  padding-top: 100px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
-  margin: auto;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-}
-
-.center {
-  text-align: center;
-}
-
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
-  margin: auto;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-}
-
-.title {
-  color: grey;
-  font-size: 18px;
-}
-
-#btn6 {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-#img6 {
-  padding-bottom: 50px;
-  border: 10px;
-  width: 200px;
-  height: 300px;
-}
-
-#img7 {
-  padding-bottom: 50px;
-  border: 10px;
-  width: 300px;
-  height: 200px;
-}
-
-a {
-  text-decoration: none;
-  font-size: 22px;
-  color: black;
-}
-
-button:hover,
-a:hover {
-  opacity: 0.7;
-}
-
-#img1 {
-  border-radius: 5px;
 }
 
 h5 {
@@ -103,11 +30,63 @@ h5 {
 }
 
 h4 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: cursive;
   font-size: 50px;
   color: rgb(52, 252, 255);
   margin-left: 400px;
   margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  padding-left: 400px;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: -25px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  color: rgb(52, 252, 255);
+}
+
+.center {
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+  padding-left: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 10px;
+}
+
+#img2:hover {
+  transform: scale(1.2);
+}
+
+#img3:hover {
+  transform: scale(1.2);
+}
+
+#img2 {
+  margin-left: 400px;
+  margin-top: -50px;
+  border-radius: 15px;
+  width: 75px;
+  height: 75px;
+  transition: all .1s ease-in-out;
+}
+
+#img3 {
+  margin-left: 25px;
+  margin-top: -50px;
+  width: 75px;
+  height: 75px;
+  transition: all .1s ease-in-out;
+}
+
+#img1 {
+  width: 75px;
+  height: 75px;
 }
 
 h2 {
@@ -121,7 +100,7 @@ h2 {
 body {
   background-image: url(background.png);
   background-position: center;
-  background-size: 5000px;
+  background-size: 3000px;
 }
 
 h1 {
