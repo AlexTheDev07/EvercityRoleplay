@@ -1,9 +1,9 @@
 function BFP() {
-  alert("Could not download the Plugin. Please contact support in our discord server!")
-  location.href = "";
+  alert("Make sure to follow the instructions on how to set it up on our discord server.");
+  location.href = "LightStudiosPlugin.zip";
 }
 
 function LPA() {
-  alert("Could not download the App. Please contact support in our discord server!")
-  location.href = "";
+  alert("Make sure to follow the instructions on how to set it up on our discord server.");
+  location.href = "LightStudiosApp.zip";
 }
