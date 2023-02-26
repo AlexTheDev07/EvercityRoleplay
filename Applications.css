@@ -58,9 +58,8 @@ img {
 }
 
 body {
-  background-image: url(background.png);
-  background-position: center;
-  background-size: 8000px;
+  background-image: linear-gradient(lightgreen, lightpink);
+  background-size: 100% 100%;
 }
 
 h1 {
